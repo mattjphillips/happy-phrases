@@ -4,6 +4,6 @@ function makeHappyPhrase() {
     return "Life is good and so are you"
 }
 
-return {
+module.exports = {
     makeHappyPhrase
 }
