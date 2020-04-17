@@ -1,7 +1,7 @@
 
 
 function makeHappyPhrase() {
-    return "Life is good."
+    return "Life is good and so are you"
 }
 
 return {
